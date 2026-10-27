@@ -1,16 +1,15 @@
-## Hi there 👋
+# Timothy Suh
 
-<!--
-**timothys05/timothys05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Virginia Tech (graduating May 2028). I build software for VR, games, and web apps.
 
-Here are some ideas to get you started:
+## Work
+- **ARIES Program (Virginia Tech):** AR/VR software engineer building a World War I site as a VR/PC experience in Unreal Engine 5 (C++ and Blueprints).
+- **Pond Lehocky Giordano:** sole engineer on an iOS, Android, and React accident-reporting platform (private client work).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Misinformation Detector](https://github.com/timothys05/misinformation-detector): Flask app and REST API that classifies news text as real or fake.
+- [Vauquois User Analysis](https://github.com/timothys05/Vauquois_User_Analysis): Python analysis of audience engagement in a VR exhibit.
+- **ServiceHelp:** cloud workflow management platform built with a five-person team on AWS EC2 (private repo).
+
+## Contact
+timothys05@vt.edu | [LinkedIn](https://www.linkedin.com/in/timothyjsuh/)
